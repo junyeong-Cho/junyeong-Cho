@@ -1,7 +1,7 @@
 ## Hi there 👋 
 
-<div style="text-align: center;">
-  <img src="https://image.librewiki.net/thumb/8/82/04%EB%B0%80%EB%A0%88%EB%8B%88%EC%97%84.png/450px-04%EB%B0%80%EB%A0%88%EB%8B%88%EC%97%84.png" alt="Millennium" width="200">
+<div style="text-align: right;">
+  <img src="https://i.namu.wiki/i/jPNvTkfpYCtCmhJaOG1Rruy5jhqS1v2BW5pm_NBLYIgR2s1mgJduDiTENM8L26LG7aVDfW33mLKJXnwy3On1sQ.webp" alt="Millennium" width="100">
 </div>
 
 
