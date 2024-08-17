@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 ![Millennium](https://image.librewiki.net/thumb/8/82/04%EB%B0%80%EB%A0%88%EB%8B%88%EC%97%84.png/450px-04%EB%B0%80%EB%A0%88%EB%8B%88%EC%97%84.png)
+
 
 <!--
 **junyeong-Cho/junyeong-Cho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
