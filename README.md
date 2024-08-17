@@ -1,4 +1,9 @@
-## Hi there 👋 ![Millennium](https://image.librewiki.net/thumb/8/82/04%EB%B0%80%EB%A0%88%EB%8B%88%EC%97%84.png/450px-04%EB%B0%80%EB%A0%88%EB%8B%88%EC%97%84.png)
+## Hi there 👋 
+
+<div style="text-align: center;">
+  <img src="https://image.librewiki.net/thumb/8/82/04%EB%B0%80%EB%A0%88%EB%8B%88%EC%97%84.png/450px-04%EB%B0%80%EB%A0%88%EB%8B%88%EC%97%84.png" alt="Millennium" width="200">
+</div>
+
 
 
 <!--
